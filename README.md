@@ -4,6 +4,7 @@
 [![npm-download](https://img.shields.io/npm/dw/koishi-plugin-jrrp?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-jrrp)
 
 一个用于 **[Koishi v4](https://github.com/koishijs/koishi)** 的查看今日人品的插件。
+从原作者fork而来，因为不配适新版koishii18n自定义回复，我不会修，我只能改文件了.
 
 ## 安装方法
 
