@@ -41,7 +41,7 @@ module.exports = (ctx, config) => {
       jackpotComments = { ...config.jackpots }
       jackpots = Object.keys(config.jackpots).map(n => parseInt(n))
     } else {
-      jackpots = [0, 42, 77, 100]
+      jackpots = [0, 42, 69, 100]
     }
   }
 
